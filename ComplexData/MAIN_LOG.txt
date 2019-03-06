@@ -1,0 +1,12 @@
+loadNewDlls
+
+=n	::LoadLibrary()
+
+=n	::LoadLibrary()
+
+=n	::LoadLibrary()
+
+=n	::LoadLibrary()
+
+loadNewDlls FINISHED
+

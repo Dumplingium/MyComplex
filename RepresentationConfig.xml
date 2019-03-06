@@ -1,0 +1,32 @@
+<indicators>
+   <indicator>
+      <name>RoundLED</name> 
+	  <type>21012</type> 
+	  <class>Boolean</class>
+   </indicator>
+   <indicator>
+      <name>SquareLED</name> 
+	  <type>21013</type> 
+	  <class>Boolean</class>
+   </indicator>
+   <indicator>
+      <name>Numeric</name> 
+	  <type>21003</type> 
+	  <class>Numeric</class>
+   </indicator>
+   <indicator>
+      <name>Vertical Slide</name> 
+	  <type>21014</type> 
+	  <class>Slide</class>
+   </indicator>
+   <indicator>
+      <name>Horizontal Slide</name> 
+	  <type>21100</type> 
+	  <class>Slide</class>
+   </indicator>
+   <indicator>
+      <name>Meter</name> 
+	  <type>21008</type> 
+	  <class>Knob</class>
+   </indicator>
+</indicators>
